@@ -1,17 +1,17 @@
 # Facebook Template
 
-###English:
+### English:
 __________
 Facebook Template made on Android Studio
 
-####Team:
+#### Team:
 **[Mateus Amaral](https://github.com/gitmateusamaral), [Mauricio Leonardo](https://github.com/mauriciolfsilva), [Filipe Fernandes](https://github.com/FilipeMFernandes) and [Daniel Rodrigues](https://github.com/DanielORodrigues)**
 
-###Português:
+### Português:
 __________
 Template do facebook feito em Android Studio
 
-####Equipe:
+#### Equipe:
 **[Mateus Amaral](https://github.com/gitmateusamaral), [Mauricio Leonardo](https://github.com/mauriciolfsilva), [Filipe Fernandes](https://github.com/FilipeMFernandes) e [Daniel Rodrigues](https://github.com/DanielORodrigues)**
 
 <p align="center">
